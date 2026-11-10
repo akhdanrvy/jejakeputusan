@@ -1,0 +1,5 @@
+ollama>=0.6.0
+chromadb
+pydantic>=2
+python-docx
+gradio
